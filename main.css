@@ -20,8 +20,15 @@ body {
             display: inline-block;
             float: left;
             width: 40%;
+            height: 440px;
             padding: 40px;
+            margin-top: 30px;
             background-color: #282C91;
+            background-image: url(./hill.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: #fff;
         }
             .title {
 
@@ -30,7 +37,7 @@ body {
 
             }
                 .link {
-
+                    color: #fff;
                 }
                 .amp {
                     
